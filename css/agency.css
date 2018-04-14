@@ -336,6 +336,10 @@ header.masthead .device-container .screen img {
   margin-bottom: 30px;
 }
 
+.list-icons {
+    font-size: 6rem;
+}
+
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
 }
